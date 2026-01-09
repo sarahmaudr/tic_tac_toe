@@ -14,7 +14,7 @@ Projet personnel en Python pour pratiquer :
 - Détection de match nul
 - Validation des entrées pour éviter les erreurs
 
-### Concepts Python utilisés
+## Concepts Python utilisés
 
 - Listes
 - Boucles et conditions
